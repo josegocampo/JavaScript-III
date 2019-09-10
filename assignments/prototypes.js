@@ -26,7 +26,7 @@
 /*
   === Humanoid (Having an appearance or character resembling that of a human.) ===
   * team
-  * weapons
+  * weapons 
   * language
   * greet() // prototype method -> returns the string '<object name> offers a greeting in <object language>.'
   * should inherit destroy() from GameObject through CharacterStats
